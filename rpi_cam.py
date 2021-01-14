@@ -1,3 +1,4 @@
+# capture and display an image in a window
 import cv2
 
 capture = cv2.VideoCapture(0)

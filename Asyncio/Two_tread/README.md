@@ -4,4 +4,4 @@ In this example, we are starting event loop inside separate thread and submittin
 
 To run `python3 running_coroutines_on_seperate_thread.py`
 
-In all coroutines and main functions are running concurrently
+In output all coroutines and main functions are running concurrently
